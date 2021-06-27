@@ -1244,3 +1244,10 @@
 [2021-06-27 19:26:56,545] {logging_mixin.py:104} INFO - [2021-06-27 19:26:56,545] {dag.py:1832} INFO - Sync 1 DAGs
 [2021-06-27 19:26:56,551] {logging_mixin.py:104} INFO - [2021-06-27 19:26:56,551] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-06-25 00:00:00+00:00
 [2021-06-27 19:26:56,557] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.126 seconds
+[2021-06-27 19:27:26,976] {scheduler_job.py:182} INFO - Started process (PID=15333) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-06-27 19:27:26,976] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-06-27 19:27:26,976] {logging_mixin.py:104} INFO - [2021-06-27 19:27:26,976] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-06-27 19:27:26,981] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-06-27 19:27:27,095] {logging_mixin.py:104} INFO - [2021-06-27 19:27:27,095] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-27 19:27:27,102] {logging_mixin.py:104} INFO - [2021-06-27 19:27:27,102] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-06-25 00:00:00+00:00
+[2021-06-27 19:27:27,109] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.134 seconds
