@@ -1,0 +1,22 @@
+[2021-06-25 15:36:48,883] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: user_processing.is_api_available 2021-06-24T00:00:00+00:00 [queued]>
+[2021-06-25 15:36:48,888] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: user_processing.is_api_available 2021-06-24T00:00:00+00:00 [queued]>
+[2021-06-25 15:36:48,889] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-25 15:36:48,889] {taskinstance.py:1068} INFO - Starting attempt 9 of 9
+[2021-06-25 15:36:48,889] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-25 15:36:48,895] {taskinstance.py:1087} INFO - Executing <Task(HttpSensor): is_api_available> on 2021-06-24T00:00:00+00:00
+[2021-06-25 15:36:48,899] {standard_task_runner.py:52} INFO - Started process 32801 to run task
+[2021-06-25 15:36:48,904] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'user_processing', 'is_api_available', '2021-06-24T00:00:00+00:00', '--job-id', '15', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/var/folders/9t/2jnn4bv95w9552ldckktgq900000gn/T/tmpcdpn7gd2', '--error-file', '/var/folders/9t/2jnn4bv95w9552ldckktgq900000gn/T/tmpekb760ug']
+[2021-06-25 15:36:48,905] {standard_task_runner.py:77} INFO - Job 15: Subtask is_api_available
+[2021-06-25 15:36:48,923] {logging_mixin.py:104} INFO - Running <TaskInstance: user_processing.is_api_available 2021-06-24T00:00:00+00:00 [running]> on host saidamirs-macbook-pro.local
+[2021-06-25 15:36:48,936] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=user_processing
+AIRFLOW_CTX_TASK_ID=is_api_available
+AIRFLOW_CTX_EXECUTION_DATE=2021-06-24T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-06-24T00:00:00+00:00
+[2021-06-25 15:36:48,937] {http.py:101} INFO - Poking: api/
+[2021-06-25 15:36:48,939] {base.py:69} INFO - Using connection to: id: user_api. Host: https://randomuser.me/, Port: None, Schema: , Login: , Password: None, extra: {}
+[2021-06-25 15:36:48,939] {http.py:140} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2021-06-25 15:36:49,010] {local_task_job.py:151} INFO - Task exited with return code Negsignal.SIGABRT

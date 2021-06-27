@@ -1,0 +1,903 @@
+[2021-06-24 16:34:30,972] {scheduler_job.py:182} INFO - Started process (PID=14462) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:34:30,972] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:34:30,972] {logging_mixin.py:104} INFO - [2021-06-24 16:34:30,972] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:34:30,977] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:34:31,071] {logging_mixin.py:104} INFO - [2021-06-24 16:34:31,071] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:34:31,074] {logging_mixin.py:104} INFO - [2021-06-24 16:34:31,074] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:34:31,077] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:35:14,370] {scheduler_job.py:182} INFO - Started process (PID=14512) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:35:14,371] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:35:14,372] {logging_mixin.py:104} INFO - [2021-06-24 16:35:14,372] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:35:14,376] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:35:14,470] {logging_mixin.py:104} INFO - [2021-06-24 16:35:14,470] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:35:14,472] {logging_mixin.py:104} INFO - [2021-06-24 16:35:14,472] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:35:14,476] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 16:36:01,092] {scheduler_job.py:182} INFO - Started process (PID=14549) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:01,092] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:36:01,092] {logging_mixin.py:104} INFO - [2021-06-24 16:36:01,092] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:01,095] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:01,190] {logging_mixin.py:104} INFO - [2021-06-24 16:36:01,190] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:36:01,192] {logging_mixin.py:104} INFO - [2021-06-24 16:36:01,192] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:36:01,195] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:36:43,395] {scheduler_job.py:182} INFO - Started process (PID=14582) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:43,395] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:36:43,395] {logging_mixin.py:104} INFO - [2021-06-24 16:36:43,395] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:43,399] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:36:43,493] {logging_mixin.py:104} INFO - [2021-06-24 16:36:43,493] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:36:43,496] {logging_mixin.py:104} INFO - [2021-06-24 16:36:43,496] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:36:43,499] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:37:32,973] {scheduler_job.py:182} INFO - Started process (PID=14620) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:37:32,973] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:37:32,973] {logging_mixin.py:104} INFO - [2021-06-24 16:37:32,973] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:37:32,977] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:37:33,073] {logging_mixin.py:104} INFO - [2021-06-24 16:37:33,072] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:37:33,075] {logging_mixin.py:104} INFO - [2021-06-24 16:37:33,075] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:37:33,078] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 16:38:23,366] {scheduler_job.py:182} INFO - Started process (PID=14663) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:38:23,366] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:38:23,366] {logging_mixin.py:104} INFO - [2021-06-24 16:38:23,366] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:38:23,369] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:38:23,464] {logging_mixin.py:104} INFO - [2021-06-24 16:38:23,463] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:38:23,466] {logging_mixin.py:104} INFO - [2021-06-24 16:38:23,466] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:38:23,469] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:39:13,871] {scheduler_job.py:182} INFO - Started process (PID=14703) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:39:13,871] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:39:13,871] {logging_mixin.py:104} INFO - [2021-06-24 16:39:13,871] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:39:13,875] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:39:13,972] {logging_mixin.py:104} INFO - [2021-06-24 16:39:13,972] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:39:13,974] {logging_mixin.py:104} INFO - [2021-06-24 16:39:13,974] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:39:13,978] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 16:40:02,686] {scheduler_job.py:182} INFO - Started process (PID=14741) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:02,687] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:40:02,687] {logging_mixin.py:104} INFO - [2021-06-24 16:40:02,687] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:02,690] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:02,786] {logging_mixin.py:104} INFO - [2021-06-24 16:40:02,786] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:40:02,788] {logging_mixin.py:104} INFO - [2021-06-24 16:40:02,788] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:40:02,792] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:40:51,320] {scheduler_job.py:182} INFO - Started process (PID=14779) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:51,320] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:40:51,320] {logging_mixin.py:104} INFO - [2021-06-24 16:40:51,320] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:51,324] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:40:51,419] {logging_mixin.py:104} INFO - [2021-06-24 16:40:51,419] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:40:51,422] {logging_mixin.py:104} INFO - [2021-06-24 16:40:51,422] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:40:51,425] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:41:33,256] {scheduler_job.py:182} INFO - Started process (PID=14813) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:41:33,256] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:41:33,256] {logging_mixin.py:104} INFO - [2021-06-24 16:41:33,256] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:41:33,260] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:41:33,356] {logging_mixin.py:104} INFO - [2021-06-24 16:41:33,356] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:41:33,358] {logging_mixin.py:104} INFO - [2021-06-24 16:41:33,358] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:41:33,362] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 16:42:22,192] {scheduler_job.py:182} INFO - Started process (PID=14854) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:42:22,193] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:42:22,193] {logging_mixin.py:104} INFO - [2021-06-24 16:42:22,193] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:42:22,196] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:42:22,290] {logging_mixin.py:104} INFO - [2021-06-24 16:42:22,290] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:42:22,293] {logging_mixin.py:104} INFO - [2021-06-24 16:42:22,293] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:42:22,296] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:43:10,785] {scheduler_job.py:182} INFO - Started process (PID=14892) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:43:10,785] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:43:10,785] {logging_mixin.py:104} INFO - [2021-06-24 16:43:10,785] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:43:10,788] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:43:10,882] {logging_mixin.py:104} INFO - [2021-06-24 16:43:10,882] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:43:10,885] {logging_mixin.py:104} INFO - [2021-06-24 16:43:10,885] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:43:10,888] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:44:01,354] {scheduler_job.py:182} INFO - Started process (PID=14930) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:44:01,354] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:44:01,355] {logging_mixin.py:104} INFO - [2021-06-24 16:44:01,355] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:44:01,358] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:44:01,455] {logging_mixin.py:104} INFO - [2021-06-24 16:44:01,454] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:44:01,457] {logging_mixin.py:104} INFO - [2021-06-24 16:44:01,457] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:44:01,460] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 16:45:49,948] {scheduler_job.py:182} INFO - Started process (PID=14969) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:45:49,948] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:45:49,948] {logging_mixin.py:104} INFO - [2021-06-24 16:45:49,948] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:45:49,952] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:45:50,046] {logging_mixin.py:104} INFO - [2021-06-24 16:45:50,046] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:45:50,048] {logging_mixin.py:104} INFO - [2021-06-24 16:45:50,048] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:45:50,052] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:46:33,874] {scheduler_job.py:182} INFO - Started process (PID=15057) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:46:33,874] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:46:33,874] {logging_mixin.py:104} INFO - [2021-06-24 16:46:33,874] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:46:33,880] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:46:33,987] {logging_mixin.py:104} INFO - [2021-06-24 16:46:33,987] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:46:33,989] {logging_mixin.py:104} INFO - [2021-06-24 16:46:33,989] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:46:33,992] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.119 seconds
+[2021-06-24 16:47:16,207] {scheduler_job.py:182} INFO - Started process (PID=15106) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:47:16,207] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:47:16,207] {logging_mixin.py:104} INFO - [2021-06-24 16:47:16,207] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:47:16,212] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:47:16,306] {logging_mixin.py:104} INFO - [2021-06-24 16:47:16,306] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:47:16,308] {logging_mixin.py:104} INFO - [2021-06-24 16:47:16,308] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:47:16,312] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:48:05,220] {scheduler_job.py:182} INFO - Started process (PID=15153) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:05,220] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:48:05,220] {logging_mixin.py:104} INFO - [2021-06-24 16:48:05,220] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:05,224] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:05,323] {logging_mixin.py:104} INFO - [2021-06-24 16:48:05,323] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:48:05,325] {logging_mixin.py:104} INFO - [2021-06-24 16:48:05,325] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:48:05,329] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 16:48:53,539] {scheduler_job.py:182} INFO - Started process (PID=15190) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:53,539] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:48:53,539] {logging_mixin.py:104} INFO - [2021-06-24 16:48:53,539] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:53,543] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:48:53,638] {logging_mixin.py:104} INFO - [2021-06-24 16:48:53,637] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:48:53,640] {logging_mixin.py:104} INFO - [2021-06-24 16:48:53,640] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:48:53,643] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 16:49:42,910] {scheduler_job.py:182} INFO - Started process (PID=15233) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:49:42,910] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:49:42,910] {logging_mixin.py:104} INFO - [2021-06-24 16:49:42,910] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:49:42,913] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:49:43,008] {logging_mixin.py:104} INFO - [2021-06-24 16:49:43,008] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:49:43,011] {logging_mixin.py:104} INFO - [2021-06-24 16:49:43,011] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:49:43,014] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:50:32,002] {scheduler_job.py:182} INFO - Started process (PID=15284) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:50:32,002] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:50:32,002] {logging_mixin.py:104} INFO - [2021-06-24 16:50:32,002] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:50:32,006] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:50:32,103] {logging_mixin.py:104} INFO - [2021-06-24 16:50:32,103] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:50:32,106] {logging_mixin.py:104} INFO - [2021-06-24 16:50:32,105] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:50:32,109] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 16:51:20,644] {scheduler_job.py:182} INFO - Started process (PID=15322) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:51:20,644] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:51:20,644] {logging_mixin.py:104} INFO - [2021-06-24 16:51:20,644] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:51:20,648] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:51:20,750] {logging_mixin.py:104} INFO - [2021-06-24 16:51:20,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:51:20,752] {logging_mixin.py:104} INFO - [2021-06-24 16:51:20,752] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:51:20,755] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.112 seconds
+[2021-06-24 16:52:09,576] {scheduler_job.py:182} INFO - Started process (PID=15362) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:09,576] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:52:09,576] {logging_mixin.py:104} INFO - [2021-06-24 16:52:09,576] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:09,580] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:09,674] {logging_mixin.py:104} INFO - [2021-06-24 16:52:09,674] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:52:09,677] {logging_mixin.py:104} INFO - [2021-06-24 16:52:09,677] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:52:09,680] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:52:59,846] {scheduler_job.py:182} INFO - Started process (PID=15401) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:59,846] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:52:59,846] {logging_mixin.py:104} INFO - [2021-06-24 16:52:59,846] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:59,850] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:52:59,947] {logging_mixin.py:104} INFO - [2021-06-24 16:52:59,947] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:52:59,950] {logging_mixin.py:104} INFO - [2021-06-24 16:52:59,950] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:52:59,953] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 16:53:48,860] {scheduler_job.py:182} INFO - Started process (PID=15438) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:53:48,860] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:53:48,861] {logging_mixin.py:104} INFO - [2021-06-24 16:53:48,861] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:53:48,864] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:53:48,962] {logging_mixin.py:104} INFO - [2021-06-24 16:53:48,962] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:53:48,965] {logging_mixin.py:104} INFO - [2021-06-24 16:53:48,965] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:53:48,968] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 16:54:33,915] {scheduler_job.py:182} INFO - Started process (PID=15473) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:54:33,915] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:54:33,915] {logging_mixin.py:104} INFO - [2021-06-24 16:54:33,915] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:54:33,919] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:54:34,015] {logging_mixin.py:104} INFO - [2021-06-24 16:54:34,015] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:54:34,017] {logging_mixin.py:104} INFO - [2021-06-24 16:54:34,017] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:54:34,021] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 16:55:20,599] {scheduler_job.py:182} INFO - Started process (PID=15513) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:55:20,599] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:55:20,599] {logging_mixin.py:104} INFO - [2021-06-24 16:55:20,599] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:55:20,603] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:55:20,698] {logging_mixin.py:104} INFO - [2021-06-24 16:55:20,698] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:55:20,700] {logging_mixin.py:104} INFO - [2021-06-24 16:55:20,700] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:55:20,703] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:56:10,602] {scheduler_job.py:182} INFO - Started process (PID=15559) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:10,602] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:56:10,603] {logging_mixin.py:104} INFO - [2021-06-24 16:56:10,603] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:10,606] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:10,701] {logging_mixin.py:104} INFO - [2021-06-24 16:56:10,701] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:56:10,703] {logging_mixin.py:104} INFO - [2021-06-24 16:56:10,703] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:56:10,707] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:56:57,177] {scheduler_job.py:182} INFO - Started process (PID=15597) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:57,177] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:56:57,178] {logging_mixin.py:104} INFO - [2021-06-24 16:56:57,178] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:57,181] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:56:57,276] {logging_mixin.py:104} INFO - [2021-06-24 16:56:57,276] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:56:57,279] {logging_mixin.py:104} INFO - [2021-06-24 16:56:57,279] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:56:57,282] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:57:46,079] {scheduler_job.py:182} INFO - Started process (PID=15637) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:57:46,079] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:57:46,079] {logging_mixin.py:104} INFO - [2021-06-24 16:57:46,079] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:57:46,083] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:57:46,178] {logging_mixin.py:104} INFO - [2021-06-24 16:57:46,178] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:57:46,180] {logging_mixin.py:104} INFO - [2021-06-24 16:57:46,180] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:57:46,183] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:58:37,342] {scheduler_job.py:182} INFO - Started process (PID=15678) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:58:37,342] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:58:37,342] {logging_mixin.py:104} INFO - [2021-06-24 16:58:37,342] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:58:37,346] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:58:37,441] {logging_mixin.py:104} INFO - [2021-06-24 16:58:37,441] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:58:37,444] {logging_mixin.py:104} INFO - [2021-06-24 16:58:37,444] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:58:37,447] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 16:59:26,380] {scheduler_job.py:182} INFO - Started process (PID=15717) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:59:26,380] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 16:59:26,381] {logging_mixin.py:104} INFO - [2021-06-24 16:59:26,381] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:59:26,384] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 16:59:26,479] {logging_mixin.py:104} INFO - [2021-06-24 16:59:26,479] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 16:59:26,481] {logging_mixin.py:104} INFO - [2021-06-24 16:59:26,481] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 16:59:26,484] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:00:15,513] {scheduler_job.py:182} INFO - Started process (PID=15756) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:00:15,513] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:00:15,513] {logging_mixin.py:104} INFO - [2021-06-24 17:00:15,513] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:00:15,517] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:00:15,612] {logging_mixin.py:104} INFO - [2021-06-24 17:00:15,612] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:00:15,615] {logging_mixin.py:104} INFO - [2021-06-24 17:00:15,614] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:00:15,618] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:01:05,975] {scheduler_job.py:182} INFO - Started process (PID=15796) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:05,975] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:01:05,976] {logging_mixin.py:104} INFO - [2021-06-24 17:01:05,976] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:05,979] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:06,073] {logging_mixin.py:104} INFO - [2021-06-24 17:01:06,073] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:01:06,075] {logging_mixin.py:104} INFO - [2021-06-24 17:01:06,075] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:01:06,079] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:01:54,556] {scheduler_job.py:182} INFO - Started process (PID=15834) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:54,556] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:01:54,556] {logging_mixin.py:104} INFO - [2021-06-24 17:01:54,556] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:54,560] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:01:54,655] {logging_mixin.py:104} INFO - [2021-06-24 17:01:54,655] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:01:54,658] {logging_mixin.py:104} INFO - [2021-06-24 17:01:54,657] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:01:54,661] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:02:43,169] {scheduler_job.py:182} INFO - Started process (PID=15877) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:02:43,169] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:02:43,170] {logging_mixin.py:104} INFO - [2021-06-24 17:02:43,170] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:02:43,173] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:02:43,270] {logging_mixin.py:104} INFO - [2021-06-24 17:02:43,270] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:02:43,272] {logging_mixin.py:104} INFO - [2021-06-24 17:02:43,272] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:02:43,275] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:03:32,177] {scheduler_job.py:182} INFO - Started process (PID=15927) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:03:32,177] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:03:32,177] {logging_mixin.py:104} INFO - [2021-06-24 17:03:32,177] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:03:32,181] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:03:32,275] {logging_mixin.py:104} INFO - [2021-06-24 17:03:32,275] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:03:32,277] {logging_mixin.py:104} INFO - [2021-06-24 17:03:32,277] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:03:32,281] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:04:24,740] {scheduler_job.py:182} INFO - Started process (PID=15968) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:04:24,740] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:04:24,740] {logging_mixin.py:104} INFO - [2021-06-24 17:04:24,740] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:04:24,744] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:04:24,837] {logging_mixin.py:104} INFO - [2021-06-24 17:04:24,837] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:04:24,840] {logging_mixin.py:104} INFO - [2021-06-24 17:04:24,840] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:04:24,843] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:05:17,843] {scheduler_job.py:182} INFO - Started process (PID=16029) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:05:17,844] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:05:17,844] {logging_mixin.py:104} INFO - [2021-06-24 17:05:17,844] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:05:17,849] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:05:17,943] {logging_mixin.py:104} INFO - [2021-06-24 17:05:17,943] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:05:17,945] {logging_mixin.py:104} INFO - [2021-06-24 17:05:17,945] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:05:17,949] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:06:04,033] {scheduler_job.py:182} INFO - Started process (PID=16067) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:04,033] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:06:04,033] {logging_mixin.py:104} INFO - [2021-06-24 17:06:04,033] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:04,037] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:04,136] {logging_mixin.py:104} INFO - [2021-06-24 17:06:04,136] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:06:04,139] {logging_mixin.py:104} INFO - [2021-06-24 17:06:04,139] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:06:04,142] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:06:54,509] {scheduler_job.py:182} INFO - Started process (PID=16109) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:54,509] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:06:54,510] {logging_mixin.py:104} INFO - [2021-06-24 17:06:54,510] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:54,513] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:06:54,607] {logging_mixin.py:104} INFO - [2021-06-24 17:06:54,607] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:06:54,609] {logging_mixin.py:104} INFO - [2021-06-24 17:06:54,609] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:06:54,613] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:07:44,811] {scheduler_job.py:182} INFO - Started process (PID=16162) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:07:44,812] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:07:44,813] {logging_mixin.py:104} INFO - [2021-06-24 17:07:44,813] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:07:44,817] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:07:44,911] {logging_mixin.py:104} INFO - [2021-06-24 17:07:44,911] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:07:44,928] {logging_mixin.py:104} INFO - [2021-06-24 17:07:44,928] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:07:44,931] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.120 seconds
+[2021-06-24 17:08:33,859] {scheduler_job.py:182} INFO - Started process (PID=16199) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:08:33,860] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:08:33,861] {logging_mixin.py:104} INFO - [2021-06-24 17:08:33,861] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:08:33,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:08:33,963] {logging_mixin.py:104} INFO - [2021-06-24 17:08:33,963] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:08:33,965] {logging_mixin.py:104} INFO - [2021-06-24 17:08:33,965] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:08:33,969] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.110 seconds
+[2021-06-24 17:09:23,506] {scheduler_job.py:182} INFO - Started process (PID=16243) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:09:23,507] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:09:23,507] {logging_mixin.py:104} INFO - [2021-06-24 17:09:23,507] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:09:23,511] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:09:23,607] {logging_mixin.py:104} INFO - [2021-06-24 17:09:23,607] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:09:23,609] {logging_mixin.py:104} INFO - [2021-06-24 17:09:23,609] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:09:23,613] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:10:06,608] {scheduler_job.py:182} INFO - Started process (PID=16281) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:06,608] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:10:06,608] {logging_mixin.py:104} INFO - [2021-06-24 17:10:06,608] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:06,613] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:06,710] {logging_mixin.py:104} INFO - [2021-06-24 17:10:06,710] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:10:06,712] {logging_mixin.py:104} INFO - [2021-06-24 17:10:06,712] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:10:06,715] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 17:10:57,672] {scheduler_job.py:182} INFO - Started process (PID=16321) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:57,673] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:10:57,673] {logging_mixin.py:104} INFO - [2021-06-24 17:10:57,673] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:57,676] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:10:57,778] {logging_mixin.py:104} INFO - [2021-06-24 17:10:57,778] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:10:57,781] {logging_mixin.py:104} INFO - [2021-06-24 17:10:57,781] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:10:57,784] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.112 seconds
+[2021-06-24 17:11:49,816] {scheduler_job.py:182} INFO - Started process (PID=16365) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:11:49,817] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:11:49,817] {logging_mixin.py:104} INFO - [2021-06-24 17:11:49,817] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:11:49,822] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:11:49,976] {logging_mixin.py:104} INFO - [2021-06-24 17:11:49,976] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:11:49,979] {logging_mixin.py:104} INFO - [2021-06-24 17:11:49,978] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:11:49,982] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.166 seconds
+[2021-06-24 17:12:30,436] {scheduler_job.py:182} INFO - Started process (PID=16402) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:12:30,437] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:12:30,437] {logging_mixin.py:104} INFO - [2021-06-24 17:12:30,437] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:12:30,440] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:12:30,544] {logging_mixin.py:104} INFO - [2021-06-24 17:12:30,544] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:12:30,546] {logging_mixin.py:104} INFO - [2021-06-24 17:12:30,546] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:12:30,550] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2021-06-24 17:13:22,241] {scheduler_job.py:182} INFO - Started process (PID=16442) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:13:22,241] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:13:22,242] {logging_mixin.py:104} INFO - [2021-06-24 17:13:22,241] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:13:22,245] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:13:22,340] {logging_mixin.py:104} INFO - [2021-06-24 17:13:22,340] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:13:22,342] {logging_mixin.py:104} INFO - [2021-06-24 17:13:22,342] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:13:22,346] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:14:11,011] {scheduler_job.py:182} INFO - Started process (PID=16479) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:11,012] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:14:11,012] {logging_mixin.py:104} INFO - [2021-06-24 17:14:11,012] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:11,015] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:11,110] {logging_mixin.py:104} INFO - [2021-06-24 17:14:11,110] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:14:11,112] {logging_mixin.py:104} INFO - [2021-06-24 17:14:11,112] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:14:11,115] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:14:54,766] {scheduler_job.py:182} INFO - Started process (PID=16513) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:54,766] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:14:54,766] {logging_mixin.py:104} INFO - [2021-06-24 17:14:54,766] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:54,770] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:14:54,864] {logging_mixin.py:104} INFO - [2021-06-24 17:14:54,864] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:14:54,866] {logging_mixin.py:104} INFO - [2021-06-24 17:14:54,866] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:14:54,869] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:19:51,386] {scheduler_job.py:182} INFO - Started process (PID=16564) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:19:51,386] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:19:51,386] {logging_mixin.py:104} INFO - [2021-06-24 17:19:51,386] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:19:51,390] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:19:51,486] {logging_mixin.py:104} INFO - [2021-06-24 17:19:51,486] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:19:51,489] {logging_mixin.py:104} INFO - [2021-06-24 17:19:51,489] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:19:51,492] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:20:34,580] {scheduler_job.py:182} INFO - Started process (PID=16596) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:20:34,580] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:20:34,580] {logging_mixin.py:104} INFO - [2021-06-24 17:20:34,580] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:20:34,584] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:20:34,680] {logging_mixin.py:104} INFO - [2021-06-24 17:20:34,680] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:20:34,682] {logging_mixin.py:104} INFO - [2021-06-24 17:20:34,682] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:20:34,685] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:21:25,468] {scheduler_job.py:182} INFO - Started process (PID=16646) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:21:25,468] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:21:25,468] {logging_mixin.py:104} INFO - [2021-06-24 17:21:25,468] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:21:25,472] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:21:25,567] {logging_mixin.py:104} INFO - [2021-06-24 17:21:25,567] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:21:25,569] {logging_mixin.py:104} INFO - [2021-06-24 17:21:25,569] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:21:25,572] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:22:08,741] {scheduler_job.py:182} INFO - Started process (PID=16680) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:08,742] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:22:08,742] {logging_mixin.py:104} INFO - [2021-06-24 17:22:08,742] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:08,745] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:08,840] {logging_mixin.py:104} INFO - [2021-06-24 17:22:08,840] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:22:08,843] {logging_mixin.py:104} INFO - [2021-06-24 17:22:08,843] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:22:08,846] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:22:58,784] {scheduler_job.py:182} INFO - Started process (PID=16718) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:58,784] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:22:58,784] {logging_mixin.py:104} INFO - [2021-06-24 17:22:58,784] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:58,788] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:22:58,882] {logging_mixin.py:104} INFO - [2021-06-24 17:22:58,882] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:22:58,885] {logging_mixin.py:104} INFO - [2021-06-24 17:22:58,885] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:22:58,888] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:23:50,605] {scheduler_job.py:182} INFO - Started process (PID=16757) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:23:50,605] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:23:50,606] {logging_mixin.py:104} INFO - [2021-06-24 17:23:50,605] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:23:50,609] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:23:50,704] {logging_mixin.py:104} INFO - [2021-06-24 17:23:50,704] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:23:50,707] {logging_mixin.py:104} INFO - [2021-06-24 17:23:50,706] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:23:50,710] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:24:40,786] {scheduler_job.py:182} INFO - Started process (PID=16802) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:24:40,786] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:24:40,786] {logging_mixin.py:104} INFO - [2021-06-24 17:24:40,786] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:24:40,790] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:24:40,886] {logging_mixin.py:104} INFO - [2021-06-24 17:24:40,885] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:24:40,888] {logging_mixin.py:104} INFO - [2021-06-24 17:24:40,888] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:24:40,891] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:25:29,686] {scheduler_job.py:182} INFO - Started process (PID=16843) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:25:29,686] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:25:29,686] {logging_mixin.py:104} INFO - [2021-06-24 17:25:29,686] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:25:29,690] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:25:29,788] {logging_mixin.py:104} INFO - [2021-06-24 17:25:29,788] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:25:29,790] {logging_mixin.py:104} INFO - [2021-06-24 17:25:29,790] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:25:29,794] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 17:26:23,683] {scheduler_job.py:182} INFO - Started process (PID=16885) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:26:23,683] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:26:23,684] {logging_mixin.py:104} INFO - [2021-06-24 17:26:23,683] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:26:23,687] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:26:23,783] {logging_mixin.py:104} INFO - [2021-06-24 17:26:23,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:26:23,786] {logging_mixin.py:104} INFO - [2021-06-24 17:26:23,786] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:26:23,789] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:27:12,318] {scheduler_job.py:182} INFO - Started process (PID=16925) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:27:12,319] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:27:12,319] {logging_mixin.py:104} INFO - [2021-06-24 17:27:12,319] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:27:12,322] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:27:12,419] {logging_mixin.py:104} INFO - [2021-06-24 17:27:12,419] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:27:12,422] {logging_mixin.py:104} INFO - [2021-06-24 17:27:12,422] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:27:12,425] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:28:00,768] {scheduler_job.py:182} INFO - Started process (PID=16963) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:00,768] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:28:00,768] {logging_mixin.py:104} INFO - [2021-06-24 17:28:00,768] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:00,771] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:00,871] {logging_mixin.py:104} INFO - [2021-06-24 17:28:00,871] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:28:00,874] {logging_mixin.py:104} INFO - [2021-06-24 17:28:00,874] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:28:00,877] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.110 seconds
+[2021-06-24 17:28:48,119] {scheduler_job.py:182} INFO - Started process (PID=17000) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:48,119] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:28:48,120] {logging_mixin.py:104} INFO - [2021-06-24 17:28:48,120] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:48,123] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:28:48,221] {logging_mixin.py:104} INFO - [2021-06-24 17:28:48,221] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:28:48,223] {logging_mixin.py:104} INFO - [2021-06-24 17:28:48,223] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:28:48,227] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 17:29:39,102] {scheduler_job.py:182} INFO - Started process (PID=17041) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:29:39,102] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:29:39,102] {logging_mixin.py:104} INFO - [2021-06-24 17:29:39,102] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:29:39,105] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:29:39,201] {logging_mixin.py:104} INFO - [2021-06-24 17:29:39,201] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:29:39,203] {logging_mixin.py:104} INFO - [2021-06-24 17:29:39,203] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:29:39,206] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:30:27,992] {scheduler_job.py:182} INFO - Started process (PID=17119) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:30:27,992] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:30:27,992] {logging_mixin.py:104} INFO - [2021-06-24 17:30:27,992] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:30:27,996] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:30:28,100] {logging_mixin.py:104} INFO - [2021-06-24 17:30:28,100] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:30:28,102] {logging_mixin.py:104} INFO - [2021-06-24 17:30:28,102] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:30:28,105] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.114 seconds
+[2021-06-24 17:31:18,429] {scheduler_job.py:182} INFO - Started process (PID=17162) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:31:18,429] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:31:18,429] {logging_mixin.py:104} INFO - [2021-06-24 17:31:18,429] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:31:18,433] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:31:18,528] {logging_mixin.py:104} INFO - [2021-06-24 17:31:18,528] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:31:18,530] {logging_mixin.py:104} INFO - [2021-06-24 17:31:18,530] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:31:18,533] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:32:11,756] {scheduler_job.py:182} INFO - Started process (PID=17203) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:32:11,757] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:32:11,757] {logging_mixin.py:104} INFO - [2021-06-24 17:32:11,757] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:32:11,762] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:32:11,859] {logging_mixin.py:104} INFO - [2021-06-24 17:32:11,859] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:32:11,862] {logging_mixin.py:104} INFO - [2021-06-24 17:32:11,862] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:32:11,865] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:33:03,046] {scheduler_job.py:182} INFO - Started process (PID=17247) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:03,046] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:33:03,046] {logging_mixin.py:104} INFO - [2021-06-24 17:33:03,046] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:03,049] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:03,144] {logging_mixin.py:104} INFO - [2021-06-24 17:33:03,144] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:33:03,147] {logging_mixin.py:104} INFO - [2021-06-24 17:33:03,147] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:33:03,150] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:33:55,973] {scheduler_job.py:182} INFO - Started process (PID=17290) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:55,973] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:33:55,973] {logging_mixin.py:104} INFO - [2021-06-24 17:33:55,973] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:55,977] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:33:56,112] {logging_mixin.py:104} INFO - [2021-06-24 17:33:56,112] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:33:56,114] {logging_mixin.py:104} INFO - [2021-06-24 17:33:56,114] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:33:56,117] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.145 seconds
+[2021-06-24 17:34:41,137] {scheduler_job.py:182} INFO - Started process (PID=17331) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:34:41,138] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:34:41,138] {logging_mixin.py:104} INFO - [2021-06-24 17:34:41,138] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:34:41,141] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:34:41,236] {logging_mixin.py:104} INFO - [2021-06-24 17:34:41,236] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:34:41,238] {logging_mixin.py:104} INFO - [2021-06-24 17:34:41,238] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:34:41,242] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:35:30,295] {scheduler_job.py:182} INFO - Started process (PID=17371) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:35:30,295] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:35:30,295] {logging_mixin.py:104} INFO - [2021-06-24 17:35:30,295] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:35:30,299] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:35:30,396] {logging_mixin.py:104} INFO - [2021-06-24 17:35:30,396] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:35:30,398] {logging_mixin.py:104} INFO - [2021-06-24 17:35:30,398] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:35:30,402] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:36:21,115] {scheduler_job.py:182} INFO - Started process (PID=17409) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:36:21,115] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:36:21,115] {logging_mixin.py:104} INFO - [2021-06-24 17:36:21,115] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:36:21,119] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:36:21,214] {logging_mixin.py:104} INFO - [2021-06-24 17:36:21,214] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:36:21,216] {logging_mixin.py:104} INFO - [2021-06-24 17:36:21,216] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:36:21,219] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:37:11,064] {scheduler_job.py:182} INFO - Started process (PID=17449) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:37:11,064] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:37:11,065] {logging_mixin.py:104} INFO - [2021-06-24 17:37:11,065] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:37:11,068] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:37:11,163] {logging_mixin.py:104} INFO - [2021-06-24 17:37:11,163] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:37:11,166] {logging_mixin.py:104} INFO - [2021-06-24 17:37:11,166] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:37:11,169] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:38:04,723] {scheduler_job.py:182} INFO - Started process (PID=17491) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:38:04,723] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:38:04,723] {logging_mixin.py:104} INFO - [2021-06-24 17:38:04,723] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:38:04,727] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:38:04,821] {logging_mixin.py:104} INFO - [2021-06-24 17:38:04,821] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:38:04,823] {logging_mixin.py:104} INFO - [2021-06-24 17:38:04,823] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:38:04,827] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:39:06,141] {scheduler_job.py:182} INFO - Started process (PID=17536) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:06,141] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:39:06,141] {logging_mixin.py:104} INFO - [2021-06-24 17:39:06,141] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:06,145] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:06,244] {logging_mixin.py:104} INFO - [2021-06-24 17:39:06,244] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:39:06,246] {logging_mixin.py:104} INFO - [2021-06-24 17:39:06,246] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:39:06,249] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:39:49,973] {scheduler_job.py:182} INFO - Started process (PID=17582) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:49,973] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:39:49,973] {logging_mixin.py:104} INFO - [2021-06-24 17:39:49,973] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:49,977] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:39:50,073] {logging_mixin.py:104} INFO - [2021-06-24 17:39:50,073] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:39:50,075] {logging_mixin.py:104} INFO - [2021-06-24 17:39:50,075] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:39:50,078] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:40:33,487] {scheduler_job.py:182} INFO - Started process (PID=17620) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:40:33,487] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:40:33,487] {logging_mixin.py:104} INFO - [2021-06-24 17:40:33,487] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:40:33,491] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:40:33,587] {logging_mixin.py:104} INFO - [2021-06-24 17:40:33,587] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:40:33,590] {logging_mixin.py:104} INFO - [2021-06-24 17:40:33,590] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:40:33,593] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:41:15,392] {scheduler_job.py:182} INFO - Started process (PID=17661) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:41:15,392] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:41:15,392] {logging_mixin.py:104} INFO - [2021-06-24 17:41:15,392] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:41:15,396] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:41:15,495] {logging_mixin.py:104} INFO - [2021-06-24 17:41:15,495] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:41:15,498] {logging_mixin.py:104} INFO - [2021-06-24 17:41:15,498] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:41:15,501] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:42:04,627] {scheduler_job.py:182} INFO - Started process (PID=17703) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:04,627] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:42:04,627] {logging_mixin.py:104} INFO - [2021-06-24 17:42:04,627] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:04,631] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:04,726] {logging_mixin.py:104} INFO - [2021-06-24 17:42:04,726] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:42:04,729] {logging_mixin.py:104} INFO - [2021-06-24 17:42:04,729] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:42:04,732] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:42:56,881] {scheduler_job.py:182} INFO - Started process (PID=17742) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:56,882] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:42:56,882] {logging_mixin.py:104} INFO - [2021-06-24 17:42:56,882] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:56,885] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:42:56,985] {logging_mixin.py:104} INFO - [2021-06-24 17:42:56,984] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:42:56,987] {logging_mixin.py:104} INFO - [2021-06-24 17:42:56,987] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:42:56,990] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:43:47,498] {scheduler_job.py:182} INFO - Started process (PID=17786) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:43:47,498] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:43:47,498] {logging_mixin.py:104} INFO - [2021-06-24 17:43:47,498] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:43:47,503] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:43:47,610] {logging_mixin.py:104} INFO - [2021-06-24 17:43:47,609] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:43:47,612] {logging_mixin.py:104} INFO - [2021-06-24 17:43:47,612] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:43:47,615] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.118 seconds
+[2021-06-24 17:44:30,823] {scheduler_job.py:182} INFO - Started process (PID=17818) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:44:30,823] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:44:30,823] {logging_mixin.py:104} INFO - [2021-06-24 17:44:30,823] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:44:30,827] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:44:30,921] {logging_mixin.py:104} INFO - [2021-06-24 17:44:30,921] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:44:30,924] {logging_mixin.py:104} INFO - [2021-06-24 17:44:30,924] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:44:30,927] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 17:45:20,877] {scheduler_job.py:182} INFO - Started process (PID=17857) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:45:20,878] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:45:20,878] {logging_mixin.py:104} INFO - [2021-06-24 17:45:20,878] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:45:20,881] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:45:20,978] {logging_mixin.py:104} INFO - [2021-06-24 17:45:20,978] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:45:20,980] {logging_mixin.py:104} INFO - [2021-06-24 17:45:20,980] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:45:20,984] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:46:11,432] {scheduler_job.py:182} INFO - Started process (PID=17895) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:46:11,432] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:46:11,432] {logging_mixin.py:104} INFO - [2021-06-24 17:46:11,432] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:46:11,436] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:46:11,534] {logging_mixin.py:104} INFO - [2021-06-24 17:46:11,534] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:46:11,537] {logging_mixin.py:104} INFO - [2021-06-24 17:46:11,537] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:46:11,541] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2021-06-24 17:47:00,708] {scheduler_job.py:182} INFO - Started process (PID=17937) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:00,708] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:47:00,708] {logging_mixin.py:104} INFO - [2021-06-24 17:47:00,708] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:00,712] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:00,808] {logging_mixin.py:104} INFO - [2021-06-24 17:47:00,808] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:47:00,810] {logging_mixin.py:104} INFO - [2021-06-24 17:47:00,810] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:47:00,813] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:47:51,181] {scheduler_job.py:182} INFO - Started process (PID=17975) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:51,181] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:47:51,182] {logging_mixin.py:104} INFO - [2021-06-24 17:47:51,182] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:51,185] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:47:51,283] {logging_mixin.py:104} INFO - [2021-06-24 17:47:51,283] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:47:51,286] {logging_mixin.py:104} INFO - [2021-06-24 17:47:51,286] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:47:51,289] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 17:48:41,324] {scheduler_job.py:182} INFO - Started process (PID=18015) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:48:41,325] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:48:41,325] {logging_mixin.py:104} INFO - [2021-06-24 17:48:41,325] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:48:41,328] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:48:41,424] {logging_mixin.py:104} INFO - [2021-06-24 17:48:41,424] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:48:41,426] {logging_mixin.py:104} INFO - [2021-06-24 17:48:41,426] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:48:41,430] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:49:32,637] {scheduler_job.py:182} INFO - Started process (PID=18055) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:49:32,637] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:49:32,638] {logging_mixin.py:104} INFO - [2021-06-24 17:49:32,638] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:49:32,641] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:49:32,737] {logging_mixin.py:104} INFO - [2021-06-24 17:49:32,737] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:49:32,739] {logging_mixin.py:104} INFO - [2021-06-24 17:49:32,739] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:49:32,742] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:50:13,807] {scheduler_job.py:182} INFO - Started process (PID=18087) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:50:13,807] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:50:13,807] {logging_mixin.py:104} INFO - [2021-06-24 17:50:13,807] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:50:13,810] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:50:13,907] {logging_mixin.py:104} INFO - [2021-06-24 17:50:13,907] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:50:13,909] {logging_mixin.py:104} INFO - [2021-06-24 17:50:13,909] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:50:13,913] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:51:04,057] {scheduler_job.py:182} INFO - Started process (PID=18126) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:04,058] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:51:04,058] {logging_mixin.py:104} INFO - [2021-06-24 17:51:04,058] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:04,061] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:04,157] {logging_mixin.py:104} INFO - [2021-06-24 17:51:04,157] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:51:04,159] {logging_mixin.py:104} INFO - [2021-06-24 17:51:04,159] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:51:04,163] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 17:51:53,400] {scheduler_job.py:182} INFO - Started process (PID=18164) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:53,400] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:51:53,401] {logging_mixin.py:104} INFO - [2021-06-24 17:51:53,401] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:53,404] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:51:53,500] {logging_mixin.py:104} INFO - [2021-06-24 17:51:53,500] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:51:53,502] {logging_mixin.py:104} INFO - [2021-06-24 17:51:53,502] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:51:53,505] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:52:35,378] {scheduler_job.py:182} INFO - Started process (PID=18195) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:52:35,378] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:52:35,378] {logging_mixin.py:104} INFO - [2021-06-24 17:52:35,378] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:52:35,381] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:52:35,479] {logging_mixin.py:104} INFO - [2021-06-24 17:52:35,479] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:52:35,481] {logging_mixin.py:104} INFO - [2021-06-24 17:52:35,481] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:52:35,484] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2021-06-24 17:53:16,688] {scheduler_job.py:182} INFO - Started process (PID=18230) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:16,688] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:53:16,688] {logging_mixin.py:104} INFO - [2021-06-24 17:53:16,688] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:16,691] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:16,787] {logging_mixin.py:104} INFO - [2021-06-24 17:53:16,787] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:53:16,789] {logging_mixin.py:104} INFO - [2021-06-24 17:53:16,789] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:53:16,792] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:53:58,548] {scheduler_job.py:182} INFO - Started process (PID=18265) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:58,548] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:53:58,548] {logging_mixin.py:104} INFO - [2021-06-24 17:53:58,548] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:58,552] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:53:58,647] {logging_mixin.py:104} INFO - [2021-06-24 17:53:58,647] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:53:58,649] {logging_mixin.py:104} INFO - [2021-06-24 17:53:58,649] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:53:58,653] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:54:49,490] {scheduler_job.py:182} INFO - Started process (PID=18310) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:54:49,490] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:54:49,490] {logging_mixin.py:104} INFO - [2021-06-24 17:54:49,490] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:54:49,494] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:54:49,589] {logging_mixin.py:104} INFO - [2021-06-24 17:54:49,589] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:54:49,591] {logging_mixin.py:104} INFO - [2021-06-24 17:54:49,591] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:54:49,595] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:55:31,728] {scheduler_job.py:182} INFO - Started process (PID=18341) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:55:31,728] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:55:31,728] {logging_mixin.py:104} INFO - [2021-06-24 17:55:31,728] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:55:31,732] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:55:31,827] {logging_mixin.py:104} INFO - [2021-06-24 17:55:31,827] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:55:31,830] {logging_mixin.py:104} INFO - [2021-06-24 17:55:31,830] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:55:31,833] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:56:25,998] {scheduler_job.py:182} INFO - Started process (PID=18382) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:56:25,998] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:56:26,016] {logging_mixin.py:104} INFO - [2021-06-24 17:56:26,016] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:56:26,020] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:56:26,116] {logging_mixin.py:104} INFO - [2021-06-24 17:56:26,116] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:56:26,118] {logging_mixin.py:104} INFO - [2021-06-24 17:56:26,118] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:56:26,122] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.123 seconds
+[2021-06-24 17:57:18,255] {scheduler_job.py:182} INFO - Started process (PID=18424) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:57:18,255] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:57:18,255] {logging_mixin.py:104} INFO - [2021-06-24 17:57:18,255] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:57:18,259] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:57:18,354] {logging_mixin.py:104} INFO - [2021-06-24 17:57:18,354] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:57:18,357] {logging_mixin.py:104} INFO - [2021-06-24 17:57:18,357] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:57:18,360] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:58:09,080] {scheduler_job.py:182} INFO - Started process (PID=18462) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:58:09,080] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:58:09,080] {logging_mixin.py:104} INFO - [2021-06-24 17:58:09,080] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:58:09,084] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:58:09,179] {logging_mixin.py:104} INFO - [2021-06-24 17:58:09,179] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:58:09,182] {logging_mixin.py:104} INFO - [2021-06-24 17:58:09,182] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:58:09,185] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:59:00,926] {scheduler_job.py:182} INFO - Started process (PID=18504) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:00,926] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:59:00,927] {logging_mixin.py:104} INFO - [2021-06-24 17:59:00,927] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:00,930] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:01,025] {logging_mixin.py:104} INFO - [2021-06-24 17:59:01,025] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:59:01,028] {logging_mixin.py:104} INFO - [2021-06-24 17:59:01,028] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:59:01,031] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 17:59:51,433] {scheduler_job.py:182} INFO - Started process (PID=18546) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:51,433] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 17:59:51,433] {logging_mixin.py:104} INFO - [2021-06-24 17:59:51,433] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:51,437] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 17:59:51,532] {logging_mixin.py:104} INFO - [2021-06-24 17:59:51,532] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 17:59:51,535] {logging_mixin.py:104} INFO - [2021-06-24 17:59:51,535] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 17:59:51,538] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:00:44,399] {scheduler_job.py:182} INFO - Started process (PID=18585) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:00:44,399] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:00:44,399] {logging_mixin.py:104} INFO - [2021-06-24 18:00:44,399] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:00:44,403] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:00:44,498] {logging_mixin.py:104} INFO - [2021-06-24 18:00:44,498] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:00:44,501] {logging_mixin.py:104} INFO - [2021-06-24 18:00:44,501] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:00:44,504] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:01:25,199] {scheduler_job.py:182} INFO - Started process (PID=18616) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:01:25,199] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:01:25,199] {logging_mixin.py:104} INFO - [2021-06-24 18:01:25,199] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:01:25,203] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:01:25,298] {logging_mixin.py:104} INFO - [2021-06-24 18:01:25,298] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:01:25,300] {logging_mixin.py:104} INFO - [2021-06-24 18:01:25,300] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:01:25,303] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:02:14,217] {scheduler_job.py:182} INFO - Started process (PID=18659) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:14,217] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:02:14,218] {logging_mixin.py:104} INFO - [2021-06-24 18:02:14,217] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:14,221] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:14,317] {logging_mixin.py:104} INFO - [2021-06-24 18:02:14,317] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:02:14,319] {logging_mixin.py:104} INFO - [2021-06-24 18:02:14,319] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:02:14,323] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 18:02:54,996] {scheduler_job.py:182} INFO - Started process (PID=18690) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:54,997] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:02:54,997] {logging_mixin.py:104} INFO - [2021-06-24 18:02:54,997] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:55,000] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:02:55,096] {logging_mixin.py:104} INFO - [2021-06-24 18:02:55,096] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:02:55,099] {logging_mixin.py:104} INFO - [2021-06-24 18:02:55,099] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:02:55,101] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:03:42,513] {scheduler_job.py:182} INFO - Started process (PID=18730) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:03:42,513] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:03:42,513] {logging_mixin.py:104} INFO - [2021-06-24 18:03:42,513] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:03:42,517] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:03:42,612] {logging_mixin.py:104} INFO - [2021-06-24 18:03:42,612] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:03:42,615] {logging_mixin.py:104} INFO - [2021-06-24 18:03:42,615] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:03:42,618] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:04:33,005] {scheduler_job.py:182} INFO - Started process (PID=18769) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:04:33,005] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:04:33,005] {logging_mixin.py:104} INFO - [2021-06-24 18:04:33,005] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:04:33,009] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:04:33,104] {logging_mixin.py:104} INFO - [2021-06-24 18:04:33,104] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:04:33,106] {logging_mixin.py:104} INFO - [2021-06-24 18:04:33,106] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:04:33,110] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:05:20,652] {scheduler_job.py:182} INFO - Started process (PID=18809) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:05:20,652] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:05:20,652] {logging_mixin.py:104} INFO - [2021-06-24 18:05:20,652] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:05:20,656] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:05:20,754] {logging_mixin.py:104} INFO - [2021-06-24 18:05:20,753] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:05:20,756] {logging_mixin.py:104} INFO - [2021-06-24 18:05:20,756] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:05:20,759] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 18:06:10,937] {scheduler_job.py:182} INFO - Started process (PID=18851) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:06:10,937] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:06:10,937] {logging_mixin.py:104} INFO - [2021-06-24 18:06:10,937] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:06:10,941] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:06:11,035] {logging_mixin.py:104} INFO - [2021-06-24 18:06:11,035] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:06:11,038] {logging_mixin.py:104} INFO - [2021-06-24 18:06:11,038] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:06:11,041] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:07:00,171] {scheduler_job.py:182} INFO - Started process (PID=18891) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:00,171] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:07:00,171] {logging_mixin.py:104} INFO - [2021-06-24 18:07:00,171] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:00,174] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:00,269] {logging_mixin.py:104} INFO - [2021-06-24 18:07:00,269] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:07:00,271] {logging_mixin.py:104} INFO - [2021-06-24 18:07:00,271] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:07:00,275] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:07:46,927] {scheduler_job.py:182} INFO - Started process (PID=18931) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:46,927] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:07:46,928] {logging_mixin.py:104} INFO - [2021-06-24 18:07:46,927] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:46,931] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:07:47,025] {logging_mixin.py:104} INFO - [2021-06-24 18:07:47,025] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:07:47,028] {logging_mixin.py:104} INFO - [2021-06-24 18:07:47,028] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:07:47,031] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:08:37,004] {scheduler_job.py:182} INFO - Started process (PID=18970) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:08:37,004] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:08:37,004] {logging_mixin.py:104} INFO - [2021-06-24 18:08:37,004] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:08:37,008] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:08:37,103] {logging_mixin.py:104} INFO - [2021-06-24 18:08:37,103] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:08:37,105] {logging_mixin.py:104} INFO - [2021-06-24 18:08:37,105] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:08:37,109] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:09:30,427] {scheduler_job.py:182} INFO - Started process (PID=19013) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:09:30,427] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:09:30,427] {logging_mixin.py:104} INFO - [2021-06-24 18:09:30,427] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:09:30,431] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:09:30,525] {logging_mixin.py:104} INFO - [2021-06-24 18:09:30,525] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:09:30,528] {logging_mixin.py:104} INFO - [2021-06-24 18:09:30,528] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:09:30,531] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:10:20,746] {scheduler_job.py:182} INFO - Started process (PID=19054) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:10:20,746] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:10:20,746] {logging_mixin.py:104} INFO - [2021-06-24 18:10:20,746] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:10:20,750] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:10:20,844] {logging_mixin.py:104} INFO - [2021-06-24 18:10:20,844] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:10:20,846] {logging_mixin.py:104} INFO - [2021-06-24 18:10:20,846] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:10:20,850] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:11:11,461] {scheduler_job.py:182} INFO - Started process (PID=19095) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:11,462] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:11:11,462] {logging_mixin.py:104} INFO - [2021-06-24 18:11:11,462] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:11,465] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:11,560] {logging_mixin.py:104} INFO - [2021-06-24 18:11:11,560] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:11:11,562] {logging_mixin.py:104} INFO - [2021-06-24 18:11:11,562] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:11:11,566] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:11:57,992] {scheduler_job.py:182} INFO - Started process (PID=19135) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:57,992] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:11:57,992] {logging_mixin.py:104} INFO - [2021-06-24 18:11:57,992] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:57,996] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:11:58,090] {logging_mixin.py:104} INFO - [2021-06-24 18:11:58,090] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:11:58,092] {logging_mixin.py:104} INFO - [2021-06-24 18:11:58,092] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:11:58,096] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:12:47,326] {scheduler_job.py:182} INFO - Started process (PID=19172) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:12:47,326] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:12:47,326] {logging_mixin.py:104} INFO - [2021-06-24 18:12:47,326] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:12:47,330] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:12:47,424] {logging_mixin.py:104} INFO - [2021-06-24 18:12:47,424] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:12:47,427] {logging_mixin.py:104} INFO - [2021-06-24 18:12:47,427] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:12:47,430] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:13:37,684] {scheduler_job.py:182} INFO - Started process (PID=19210) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:13:37,684] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:13:37,684] {logging_mixin.py:104} INFO - [2021-06-24 18:13:37,684] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:13:37,687] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:13:37,782] {logging_mixin.py:104} INFO - [2021-06-24 18:13:37,782] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:13:37,785] {logging_mixin.py:104} INFO - [2021-06-24 18:13:37,785] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:13:37,788] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2021-06-24 18:44:50,337] {scheduler_job.py:182} INFO - Started process (PID=19272) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:44:50,337] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:44:50,337] {logging_mixin.py:104} INFO - [2021-06-24 18:44:50,337] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:44:50,341] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:44:50,435] {logging_mixin.py:104} INFO - [2021-06-24 18:44:50,435] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:44:50,437] {logging_mixin.py:104} INFO - [2021-06-24 18:44:50,437] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:44:50,440] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2021-06-24 18:45:32,668] {scheduler_job.py:182} INFO - Started process (PID=19306) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:45:32,668] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:45:32,669] {logging_mixin.py:104} INFO - [2021-06-24 18:45:32,668] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:45:32,672] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:45:32,766] {logging_mixin.py:104} INFO - [2021-06-24 18:45:32,766] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:45:32,768] {logging_mixin.py:104} INFO - [2021-06-24 18:45:32,768] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:45:32,772] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 18:47:23,529] {scheduler_job.py:182} INFO - Started process (PID=19365) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:47:23,529] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:47:23,530] {logging_mixin.py:104} INFO - [2021-06-24 18:47:23,530] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:47:23,533] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:47:23,630] {logging_mixin.py:104} INFO - [2021-06-24 18:47:23,630] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:47:23,633] {logging_mixin.py:104} INFO - [2021-06-24 18:47:23,633] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:47:23,637] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 18:48:05,960] {scheduler_job.py:182} INFO - Started process (PID=19398) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:48:05,961] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:48:05,961] {logging_mixin.py:104} INFO - [2021-06-24 18:48:05,961] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:48:05,964] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:48:06,061] {logging_mixin.py:104} INFO - [2021-06-24 18:48:06,061] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:48:06,063] {logging_mixin.py:104} INFO - [2021-06-24 18:48:06,063] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:48:06,066] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2021-06-24 18:57:06,585] {scheduler_job.py:182} INFO - Started process (PID=19456) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:57:06,585] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 18:57:06,585] {logging_mixin.py:104} INFO - [2021-06-24 18:57:06,585] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:57:06,588] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 18:57:06,687] {logging_mixin.py:104} INFO - [2021-06-24 18:57:06,687] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 18:57:06,700] {logging_mixin.py:104} INFO - [2021-06-24 18:57:06,700] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 18:57:06,702] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.118 seconds
+[2021-06-24 20:25:52,773] {scheduler_job.py:182} INFO - Started process (PID=19558) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:25:52,773] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 20:25:52,774] {logging_mixin.py:104} INFO - [2021-06-24 20:25:52,773] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:25:52,777] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:25:52,876] {logging_mixin.py:104} INFO - [2021-06-24 20:25:52,876] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 20:25:52,878] {logging_mixin.py:104} INFO - [2021-06-24 20:25:52,878] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 20:25:52,881] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2021-06-24 20:43:21,014] {scheduler_job.py:182} INFO - Started process (PID=19600) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:43:21,014] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 20:43:21,014] {logging_mixin.py:104} INFO - [2021-06-24 20:43:21,014] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:43:21,017] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 20:43:21,112] {logging_mixin.py:104} INFO - [2021-06-24 20:43:21,112] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 20:43:21,114] {logging_mixin.py:104} INFO - [2021-06-24 20:43:21,114] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 20:43:21,117] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 21:43:07,347] {scheduler_job.py:182} INFO - Started process (PID=19656) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 21:43:07,348] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 21:43:07,348] {logging_mixin.py:104} INFO - [2021-06-24 21:43:07,348] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 21:43:07,351] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 21:43:07,445] {logging_mixin.py:104} INFO - [2021-06-24 21:43:07,445] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 21:43:07,448] {logging_mixin.py:104} INFO - [2021-06-24 21:43:07,448] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 21:43:07,451] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-24 22:47:06,595] {scheduler_job.py:182} INFO - Started process (PID=19702) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 22:47:06,595] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-24 22:47:06,595] {logging_mixin.py:104} INFO - [2021-06-24 22:47:06,595] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 22:47:06,599] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-24 22:47:06,693] {logging_mixin.py:104} INFO - [2021-06-24 22:47:06,692] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-24 22:47:06,695] {logging_mixin.py:104} INFO - [2021-06-24 22:47:06,695] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-24 22:47:06,698] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-25 00:46:11,469] {scheduler_job.py:182} INFO - Started process (PID=19774) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 00:46:11,470] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-25 00:46:11,470] {logging_mixin.py:104} INFO - [2021-06-25 00:46:11,470] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 00:46:11,473] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 00:46:11,567] {logging_mixin.py:104} INFO - [2021-06-25 00:46:11,567] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-25 00:46:11,570] {logging_mixin.py:104} INFO - [2021-06-25 00:46:11,570] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-25 00:46:11,573] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2021-06-25 01:50:44,308] {scheduler_job.py:182} INFO - Started process (PID=19829) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 01:50:44,308] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-25 01:50:44,309] {logging_mixin.py:104} INFO - [2021-06-25 01:50:44,309] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 01:50:44,315] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 01:50:44,482] {logging_mixin.py:104} INFO - [2021-06-25 01:50:44,481] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-25 01:50:44,484] {logging_mixin.py:104} INFO - [2021-06-25 01:50:44,484] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-25 01:50:44,487] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.180 seconds
+[2021-06-25 03:21:16,304] {scheduler_job.py:182} INFO - Started process (PID=19903) to work on /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 03:21:16,305] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-06-25 03:21:16,305] {logging_mixin.py:104} INFO - [2021-06-25 03:21:16,305] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 03:21:16,309] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-06-25 03:21:16,404] {logging_mixin.py:104} INFO - [2021-06-25 03:21:16,404] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-25 03:21:16,406] {logging_mixin.py:104} INFO - [2021-06-25 03:21:16,406] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-06-25 03:21:16,410] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
