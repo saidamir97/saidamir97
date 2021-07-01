@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @saidamir97
+- 👀 I’m interested in Data Science, Analytics and AI
+- 🌱 I’m currently learning Data Engineering
