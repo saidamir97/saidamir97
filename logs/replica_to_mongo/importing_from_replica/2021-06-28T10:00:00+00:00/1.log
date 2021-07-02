@@ -1,0 +1,129 @@
+[2021-06-28 16:31:13,016] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: replica_to_mongo.importing_from_replica 2021-06-28T10:00:00+00:00 [queued]>
+[2021-06-28 16:31:13,020] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: replica_to_mongo.importing_from_replica 2021-06-28T10:00:00+00:00 [queued]>
+[2021-06-28 16:31:13,020] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-28 16:31:13,020] {taskinstance.py:1068} INFO - Starting attempt 1 of 1
+[2021-06-28 16:31:13,020] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-06-28 16:31:13,028] {taskinstance.py:1087} INFO - Executing <Task(PythonOperator): importing_from_replica> on 2021-06-28T10:00:00+00:00
+[2021-06-28 16:31:13,030] {standard_task_runner.py:52} INFO - Started process 63392 to run task
+[2021-06-28 16:31:13,033] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'replica_to_mongo', 'importing_from_replica', '2021-06-28T10:00:00+00:00', '--job-id', '21', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/replica_to_mongo.py', '--cfg-path', '/var/folders/9t/2jnn4bv95w9552ldckktgq900000gn/T/tmpl3rpzpvj', '--error-file', '/var/folders/9t/2jnn4bv95w9552ldckktgq900000gn/T/tmp2cyrhdtu']
+[2021-06-28 16:31:13,033] {standard_task_runner.py:77} INFO - Job 21: Subtask importing_from_replica
+[2021-06-28 16:31:13,064] {logging_mixin.py:104} INFO - Running <TaskInstance: replica_to_mongo.importing_from_replica 2021-06-28T10:00:00+00:00 [running]> on host Saidamirs-MacBook-Pro.local
+[2021-06-28 16:31:13,132] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=replica_to_mongo
+AIRFLOW_CTX_TASK_ID=importing_from_replica
+AIRFLOW_CTX_EXECUTION_DATE=2021-06-28T10:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-06-28T10:00:00+00:00
+[2021-06-28 16:31:13,134] {taskinstance.py:1481} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2336, in _wrap_pool_connect
+    return fn()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 364, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 778, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 495, in checkout
+    rec = pool._do_get()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 140, in _do_get
+    self._dec_overflow()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.raise_(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 137, in _do_get
+    return self._create_connection()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 309, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 440, in __init__
+    self.__connect(first_connect_check=True)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.raise_(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 656, in __connect
+    connection = pool._invoke_creator(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 508, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb._exceptions.OperationalError: (2002, "Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1137, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 150, in execute
+    return_value = self.execute_callable()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 161, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/saidamirmarufkhujaev/airflow/dags/replica_to_mongo.py", line 25, in _importing_from_replica
+    table_names: Series = pd.read_sql("show tables;", replica_engine).squeeze()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/pandas/io/sql.py", line 521, in read_sql
+    return pandas_sql.read_query(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/pandas/io/sql.py", line 1308, in read_query
+    result = self.execute(*args)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/pandas/io/sql.py", line 1176, in execute
+    return self.connectable.execution_options().execute(*args, **kwargs)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2234, in execute
+    connection = self._contextual_connect(close_with_result=True)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2302, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2339, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1583, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2336, in _wrap_pool_connect
+    return fn()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 364, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 778, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 495, in checkout
+    rec = pool._do_get()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 140, in _do_get
+    self._dec_overflow()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.raise_(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 137, in _do_get
+    return self._create_connection()
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 309, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 440, in __init__
+    self.__connect(first_connect_check=True)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.raise_(
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 656, in __connect
+    connection = pool._invoke_creator(self)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 508, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/MySQLdb/__init__.py", line 130, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/saidamirmarufkhujaev/venv/lib/python3.9/site-packages/MySQLdb/connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (MySQLdb._exceptions.OperationalError) (2002, "Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)")
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+[2021-06-28 16:31:13,154] {taskinstance.py:1524} INFO - Marking task as FAILED. dag_id=replica_to_mongo, task_id=importing_from_replica, execution_date=20210628T100000, start_date=20210628T113113, end_date=20210628T113113
+[2021-06-28 16:31:13,210] {local_task_job.py:151} INFO - Task exited with return code 1

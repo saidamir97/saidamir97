@@ -1,0 +1,379 @@
+[2021-06-28 16:31:26,728] {scheduler_job.py:182} INFO - Started process (PID=63410) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:26,729] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:31:26,729] {logging_mixin.py:104} INFO - [2021-06-28 16:31:26,729] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:27,012] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:27,130] {logging_mixin.py:104} INFO - [2021-06-28 16:31:27,130] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:31:27,136] {logging_mixin.py:104} INFO - [2021-06-28 16:31:27,136] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:31:27,141] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.413 seconds
+[2021-06-28 16:31:57,668] {scheduler_job.py:182} INFO - Started process (PID=63489) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:57,668] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:31:57,668] {logging_mixin.py:104} INFO - [2021-06-28 16:31:57,668] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:57,988] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:31:58,007] {logging_mixin.py:104} INFO - [2021-06-28 16:31:58,006] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:31:58,012] {logging_mixin.py:104} INFO - [2021-06-28 16:31:58,012] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:31:58,015] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.347 seconds
+[2021-06-28 16:32:28,692] {scheduler_job.py:182} INFO - Started process (PID=63565) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:32:28,692] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:32:28,692] {logging_mixin.py:104} INFO - [2021-06-28 16:32:28,692] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:32:28,964] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:32:28,993] {logging_mixin.py:104} INFO - [2021-06-28 16:32:28,993] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:32:29,009] {logging_mixin.py:104} INFO - [2021-06-28 16:32:29,009] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:32:29,012] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.321 seconds
+[2021-06-28 16:32:59,796] {scheduler_job.py:182} INFO - Started process (PID=63675) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:32:59,796] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:32:59,796] {logging_mixin.py:104} INFO - [2021-06-28 16:32:59,796] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:33:00,147] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:33:00,291] {logging_mixin.py:104} INFO - [2021-06-28 16:33:00,291] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:33:00,298] {logging_mixin.py:104} INFO - [2021-06-28 16:33:00,297] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:33:00,301] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.506 seconds
+[2021-06-28 16:33:30,929] {scheduler_job.py:182} INFO - Started process (PID=63770) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:33:30,929] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:33:30,930] {logging_mixin.py:104} INFO - [2021-06-28 16:33:30,930] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:33:31,205] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:33:31,243] {logging_mixin.py:104} INFO - [2021-06-28 16:33:31,243] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:33:31,248] {logging_mixin.py:104} INFO - [2021-06-28 16:33:31,248] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:33:31,252] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.323 seconds
+[2021-06-28 16:34:02,192] {scheduler_job.py:182} INFO - Started process (PID=63871) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:02,193] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:34:02,193] {logging_mixin.py:104} INFO - [2021-06-28 16:34:02,193] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:02,447] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:02,486] {logging_mixin.py:104} INFO - [2021-06-28 16:34:02,486] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:34:02,502] {logging_mixin.py:104} INFO - [2021-06-28 16:34:02,502] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:34:02,505] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.313 seconds
+[2021-06-28 16:34:54,387] {scheduler_job.py:182} INFO - Started process (PID=63984) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:54,388] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:34:54,388] {logging_mixin.py:104} INFO - [2021-06-28 16:34:54,388] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:54,767] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:34:54,901] {logging_mixin.py:104} INFO - [2021-06-28 16:34:54,901] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:34:54,907] {logging_mixin.py:104} INFO - [2021-06-28 16:34:54,907] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:34:54,911] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.525 seconds
+[2021-06-28 16:35:25,618] {scheduler_job.py:182} INFO - Started process (PID=64006) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:25,619] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:35:25,619] {logging_mixin.py:104} INFO - [2021-06-28 16:35:25,619] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:25,942] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:25,997] {logging_mixin.py:104} INFO - [2021-06-28 16:35:25,997] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:35:26,002] {logging_mixin.py:104} INFO - [2021-06-28 16:35:26,002] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:35:26,007] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.389 seconds
+[2021-06-28 16:35:56,608] {scheduler_job.py:182} INFO - Started process (PID=64052) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:56,608] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:35:56,608] {logging_mixin.py:104} INFO - [2021-06-28 16:35:56,608] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:56,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:35:57,102] {logging_mixin.py:104} INFO - [2021-06-28 16:35:57,102] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:35:57,109] {logging_mixin.py:104} INFO - [2021-06-28 16:35:57,109] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:35:57,114] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.507 seconds
+[2021-06-28 16:36:28,001] {scheduler_job.py:182} INFO - Started process (PID=64071) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:28,002] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:36:28,002] {logging_mixin.py:104} INFO - [2021-06-28 16:36:28,002] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:28,309] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:28,349] {logging_mixin.py:104} INFO - [2021-06-28 16:36:28,349] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:36:28,355] {logging_mixin.py:104} INFO - [2021-06-28 16:36:28,355] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:36:28,358] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.357 seconds
+[2021-06-28 16:36:59,289] {scheduler_job.py:182} INFO - Started process (PID=64087) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:59,289] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:36:59,289] {logging_mixin.py:104} INFO - [2021-06-28 16:36:59,289] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:59,606] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:36:59,721] {logging_mixin.py:104} INFO - [2021-06-28 16:36:59,721] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:36:59,729] {logging_mixin.py:104} INFO - [2021-06-28 16:36:59,729] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:36:59,734] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.446 seconds
+[2021-06-28 16:37:30,369] {scheduler_job.py:182} INFO - Started process (PID=64105) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:37:30,370] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:37:30,370] {logging_mixin.py:104} INFO - [2021-06-28 16:37:30,370] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:37:30,773] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['replica_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:37:30,792] {logging_mixin.py:104} INFO - [2021-06-28 16:37:30,792] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:37:30,799] {logging_mixin.py:104} INFO - [2021-06-28 16:37:30,799] {dag.py:2305} INFO - Setting next_dagrun for replica_to_mongo to 2021-06-28T11:00:00+00:00
+[2021-06-28 16:37:30,804] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.434 seconds
+[2021-06-28 16:38:01,487] {scheduler_job.py:182} INFO - Started process (PID=64140) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:01,487] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:38:01,487] {logging_mixin.py:104} INFO - [2021-06-28 16:38:01,487] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:01,510] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:01,916] {logging_mixin.py:104} INFO - [2021-06-28 16:38:01,915] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:38:01,918] {logging_mixin.py:104} INFO - [2021-06-28 16:38:01,918] {dag.py:1851} INFO - Creating ORM DAG for calls_to_mongo
+[2021-06-28 16:38:01,922] {logging_mixin.py:104} INFO - [2021-06-28 16:38:01,922] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:38:01,926] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.439 seconds
+[2021-06-28 16:38:32,768] {scheduler_job.py:182} INFO - Started process (PID=64161) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:32,768] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:38:32,768] {logging_mixin.py:104} INFO - [2021-06-28 16:38:32,768] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:32,793] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:38:32,811] {logging_mixin.py:104} INFO - [2021-06-28 16:38:32,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:38:32,818] {logging_mixin.py:104} INFO - [2021-06-28 16:38:32,818] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:38:32,838] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.071 seconds
+[2021-06-28 16:39:03,556] {scheduler_job.py:182} INFO - Started process (PID=64175) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:03,556] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:39:03,557] {logging_mixin.py:104} INFO - [2021-06-28 16:39:03,556] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:03,579] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:03,597] {logging_mixin.py:104} INFO - [2021-06-28 16:39:03,597] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:39:03,606] {logging_mixin.py:104} INFO - [2021-06-28 16:39:03,606] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:39:03,624] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:39:34,359] {scheduler_job.py:182} INFO - Started process (PID=64191) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:34,359] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:39:34,359] {logging_mixin.py:104} INFO - [2021-06-28 16:39:34,359] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:34,382] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:39:34,402] {logging_mixin.py:104} INFO - [2021-06-28 16:39:34,402] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:39:34,419] {logging_mixin.py:104} INFO - [2021-06-28 16:39:34,419] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:39:34,439] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.080 seconds
+[2021-06-28 16:40:05,199] {scheduler_job.py:182} INFO - Started process (PID=64201) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:05,200] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:40:05,200] {logging_mixin.py:104} INFO - [2021-06-28 16:40:05,200] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:05,223] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:05,242] {logging_mixin.py:104} INFO - [2021-06-28 16:40:05,242] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:40:05,249] {logging_mixin.py:104} INFO - [2021-06-28 16:40:05,249] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:40:05,269] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.069 seconds
+[2021-06-28 16:40:35,775] {scheduler_job.py:182} INFO - Started process (PID=64215) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:35,775] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:40:35,775] {logging_mixin.py:104} INFO - [2021-06-28 16:40:35,775] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:35,800] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:40:35,819] {logging_mixin.py:104} INFO - [2021-06-28 16:40:35,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:40:35,827] {logging_mixin.py:104} INFO - [2021-06-28 16:40:35,827] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:40:35,850] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.076 seconds
+[2021-06-28 16:41:06,633] {scheduler_job.py:182} INFO - Started process (PID=64234) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:06,633] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:41:06,633] {logging_mixin.py:104} INFO - [2021-06-28 16:41:06,633] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:06,658] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:06,677] {logging_mixin.py:104} INFO - [2021-06-28 16:41:06,677] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:41:06,686] {logging_mixin.py:104} INFO - [2021-06-28 16:41:06,686] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:41:06,706] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:41:37,474] {scheduler_job.py:182} INFO - Started process (PID=64248) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:37,475] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:41:37,475] {logging_mixin.py:104} INFO - [2021-06-28 16:41:37,475] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:37,497] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:41:37,517] {logging_mixin.py:104} INFO - [2021-06-28 16:41:37,517] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:41:37,526] {logging_mixin.py:104} INFO - [2021-06-28 16:41:37,525] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:41:37,544] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:42:08,293] {scheduler_job.py:182} INFO - Started process (PID=64262) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:08,293] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:42:08,294] {logging_mixin.py:104} INFO - [2021-06-28 16:42:08,293] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:08,316] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:08,335] {logging_mixin.py:104} INFO - [2021-06-28 16:42:08,335] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:42:08,343] {logging_mixin.py:104} INFO - [2021-06-28 16:42:08,343] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:42:08,361] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:42:38,767] {scheduler_job.py:182} INFO - Started process (PID=64271) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:38,768] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:42:38,768] {logging_mixin.py:104} INFO - [2021-06-28 16:42:38,768] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:38,790] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:42:38,810] {logging_mixin.py:104} INFO - [2021-06-28 16:42:38,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:42:38,818] {logging_mixin.py:104} INFO - [2021-06-28 16:42:38,818] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:42:38,836] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.069 seconds
+[2021-06-28 16:43:09,304] {scheduler_job.py:182} INFO - Started process (PID=64289) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:09,304] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:43:09,305] {logging_mixin.py:104} INFO - [2021-06-28 16:43:09,305] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:09,327] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:09,346] {logging_mixin.py:104} INFO - [2021-06-28 16:43:09,346] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:43:09,354] {logging_mixin.py:104} INFO - [2021-06-28 16:43:09,354] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:43:09,372] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:43:40,156] {scheduler_job.py:182} INFO - Started process (PID=64300) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:40,157] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:43:40,157] {logging_mixin.py:104} INFO - [2021-06-28 16:43:40,157] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:40,191] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:43:40,208] {logging_mixin.py:104} INFO - [2021-06-28 16:43:40,208] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:43:40,214] {logging_mixin.py:104} INFO - [2021-06-28 16:43:40,214] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:43:40,232] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.075 seconds
+[2021-06-28 16:44:10,997] {scheduler_job.py:182} INFO - Started process (PID=64321) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:10,997] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:44:10,997] {logging_mixin.py:104} INFO - [2021-06-28 16:44:10,997] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:11,020] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:11,040] {logging_mixin.py:104} INFO - [2021-06-28 16:44:11,040] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:44:11,049] {logging_mixin.py:104} INFO - [2021-06-28 16:44:11,049] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:44:11,067] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:44:41,822] {scheduler_job.py:182} INFO - Started process (PID=64330) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:41,822] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:44:41,822] {logging_mixin.py:104} INFO - [2021-06-28 16:44:41,822] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:41,846] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:44:41,865] {logging_mixin.py:104} INFO - [2021-06-28 16:44:41,865] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:44:41,873] {logging_mixin.py:104} INFO - [2021-06-28 16:44:41,873] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:44:41,892] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.071 seconds
+[2021-06-28 16:45:12,319] {scheduler_job.py:182} INFO - Started process (PID=64340) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:12,319] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:45:12,319] {logging_mixin.py:104} INFO - [2021-06-28 16:45:12,319] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:12,342] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:12,361] {logging_mixin.py:104} INFO - [2021-06-28 16:45:12,361] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:45:12,369] {logging_mixin.py:104} INFO - [2021-06-28 16:45:12,369] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:45:12,388] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.069 seconds
+[2021-06-28 16:45:43,125] {scheduler_job.py:182} INFO - Started process (PID=64351) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:43,125] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:45:43,125] {logging_mixin.py:104} INFO - [2021-06-28 16:45:43,125] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:43,148] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:45:43,168] {logging_mixin.py:104} INFO - [2021-06-28 16:45:43,168] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:45:43,175] {logging_mixin.py:104} INFO - [2021-06-28 16:45:43,175] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:45:43,193] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:46:13,593] {scheduler_job.py:182} INFO - Started process (PID=64363) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:13,593] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:46:13,593] {logging_mixin.py:104} INFO - [2021-06-28 16:46:13,593] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:13,616] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:13,636] {logging_mixin.py:104} INFO - [2021-06-28 16:46:13,636] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:46:13,644] {logging_mixin.py:104} INFO - [2021-06-28 16:46:13,644] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:46:13,663] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:46:44,159] {scheduler_job.py:182} INFO - Started process (PID=64395) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:44,159] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:46:44,159] {logging_mixin.py:104} INFO - [2021-06-28 16:46:44,159] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:44,182] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:46:44,201] {logging_mixin.py:104} INFO - [2021-06-28 16:46:44,201] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:46:44,209] {logging_mixin.py:104} INFO - [2021-06-28 16:46:44,209] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:46:44,228] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:47:15,055] {scheduler_job.py:182} INFO - Started process (PID=64404) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:15,057] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:47:15,057] {logging_mixin.py:104} INFO - [2021-06-28 16:47:15,057] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:15,087] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:15,105] {logging_mixin.py:104} INFO - [2021-06-28 16:47:15,105] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:47:15,112] {logging_mixin.py:104} INFO - [2021-06-28 16:47:15,112] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:47:15,129] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:47:45,591] {scheduler_job.py:182} INFO - Started process (PID=64413) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:45,591] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:47:45,591] {logging_mixin.py:104} INFO - [2021-06-28 16:47:45,591] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:45,618] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:47:45,636] {logging_mixin.py:104} INFO - [2021-06-28 16:47:45,636] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:47:45,643] {logging_mixin.py:104} INFO - [2021-06-28 16:47:45,643] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:47:45,662] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.072 seconds
+[2021-06-28 16:48:16,453] {scheduler_job.py:182} INFO - Started process (PID=64424) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:16,453] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:48:16,453] {logging_mixin.py:104} INFO - [2021-06-28 16:48:16,453] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:16,476] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:16,496] {logging_mixin.py:104} INFO - [2021-06-28 16:48:16,496] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:48:16,504] {logging_mixin.py:104} INFO - [2021-06-28 16:48:16,504] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:48:16,523] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:48:47,299] {scheduler_job.py:182} INFO - Started process (PID=64432) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:47,299] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:48:47,299] {logging_mixin.py:104} INFO - [2021-06-28 16:48:47,299] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:47,323] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:48:47,343] {logging_mixin.py:104} INFO - [2021-06-28 16:48:47,343] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:48:47,350] {logging_mixin.py:104} INFO - [2021-06-28 16:48:47,350] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:48:47,371] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.072 seconds
+[2021-06-28 16:49:18,142] {scheduler_job.py:182} INFO - Started process (PID=64441) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:18,142] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:49:18,142] {logging_mixin.py:104} INFO - [2021-06-28 16:49:18,142] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:18,164] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:18,184] {logging_mixin.py:104} INFO - [2021-06-28 16:49:18,183] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:49:18,191] {logging_mixin.py:104} INFO - [2021-06-28 16:49:18,191] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:49:18,210] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:49:48,965] {scheduler_job.py:182} INFO - Started process (PID=64450) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:48,965] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:49:48,965] {logging_mixin.py:104} INFO - [2021-06-28 16:49:48,965] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:48,988] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:49:49,007] {logging_mixin.py:104} INFO - [2021-06-28 16:49:49,007] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:49:49,015] {logging_mixin.py:104} INFO - [2021-06-28 16:49:49,015] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:49:49,034] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:50:19,457] {scheduler_job.py:182} INFO - Started process (PID=64467) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:19,457] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:50:19,457] {logging_mixin.py:104} INFO - [2021-06-28 16:50:19,457] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:19,480] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:19,500] {logging_mixin.py:104} INFO - [2021-06-28 16:50:19,500] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:50:19,508] {logging_mixin.py:104} INFO - [2021-06-28 16:50:19,508] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:50:19,526] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.070 seconds
+[2021-06-28 16:50:50,080] {scheduler_job.py:182} INFO - Started process (PID=64477) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:50,080] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:50:50,080] {logging_mixin.py:104} INFO - [2021-06-28 16:50:50,080] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:50,103] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:50:50,122] {logging_mixin.py:104} INFO - [2021-06-28 16:50:50,122] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:50:50,130] {logging_mixin.py:104} INFO - [2021-06-28 16:50:50,130] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:50:50,148] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.068 seconds
+[2021-06-28 16:51:20,711] {scheduler_job.py:182} INFO - Started process (PID=64489) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:20,711] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:51:20,711] {logging_mixin.py:104} INFO - [2021-06-28 16:51:20,711] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:20,769] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:20,808] {logging_mixin.py:104} INFO - [2021-06-28 16:51:20,808] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:51:20,815] {logging_mixin.py:104} INFO - [2021-06-28 16:51:20,815] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:51:20,835] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.124 seconds
+[2021-06-28 16:51:51,295] {scheduler_job.py:182} INFO - Started process (PID=64500) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:51,295] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:51:51,295] {logging_mixin.py:104} INFO - [2021-06-28 16:51:51,295] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:51,318] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:51:51,338] {logging_mixin.py:104} INFO - [2021-06-28 16:51:51,338] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:51:51,346] {logging_mixin.py:104} INFO - [2021-06-28 16:51:51,346] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:51:51,365] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.071 seconds
+[2021-06-28 16:52:22,054] {scheduler_job.py:182} INFO - Started process (PID=64521) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:22,054] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:52:22,054] {logging_mixin.py:104} INFO - [2021-06-28 16:52:22,054] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:22,084] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:22,101] {logging_mixin.py:104} INFO - [2021-06-28 16:52:22,101] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:52:22,108] {logging_mixin.py:104} INFO - [2021-06-28 16:52:22,108] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:52:22,127] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:52:52,596] {scheduler_job.py:182} INFO - Started process (PID=64532) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:52,597] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:52:52,597] {logging_mixin.py:104} INFO - [2021-06-28 16:52:52,597] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:52,628] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:52:52,646] {logging_mixin.py:104} INFO - [2021-06-28 16:52:52,646] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:52:52,653] {logging_mixin.py:104} INFO - [2021-06-28 16:52:52,653] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:52:52,671] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.075 seconds
+[2021-06-28 16:53:23,719] {scheduler_job.py:182} INFO - Started process (PID=64540) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:23,720] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:53:23,720] {logging_mixin.py:104} INFO - [2021-06-28 16:53:23,720] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:23,758] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:23,970] {logging_mixin.py:104} INFO - [2021-06-28 16:53:23,970] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:53:23,996] {logging_mixin.py:104} INFO - [2021-06-28 16:53:23,996] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:53:24,016] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.297 seconds
+[2021-06-28 16:53:54,599] {scheduler_job.py:182} INFO - Started process (PID=64557) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:54,599] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:53:54,599] {logging_mixin.py:104} INFO - [2021-06-28 16:53:54,599] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:54,622] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:53:54,644] {logging_mixin.py:104} INFO - [2021-06-28 16:53:54,644] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:53:54,653] {logging_mixin.py:104} INFO - [2021-06-28 16:53:54,652] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:53:54,673] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:54:25,424] {scheduler_job.py:182} INFO - Started process (PID=64566) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:25,425] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:54:25,425] {logging_mixin.py:104} INFO - [2021-06-28 16:54:25,425] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:25,448] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:25,467] {logging_mixin.py:104} INFO - [2021-06-28 16:54:25,467] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:54:25,475] {logging_mixin.py:104} INFO - [2021-06-28 16:54:25,475] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:54:25,496] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.072 seconds
+[2021-06-28 16:54:56,327] {scheduler_job.py:182} INFO - Started process (PID=64576) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:56,328] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:54:56,328] {logging_mixin.py:104} INFO - [2021-06-28 16:54:56,328] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:56,352] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:54:56,372] {logging_mixin.py:104} INFO - [2021-06-28 16:54:56,372] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:54:56,380] {logging_mixin.py:104} INFO - [2021-06-28 16:54:56,380] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:54:56,400] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.073 seconds
+[2021-06-28 16:55:27,193] {scheduler_job.py:182} INFO - Started process (PID=64604) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:27,193] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:55:27,193] {logging_mixin.py:104} INFO - [2021-06-28 16:55:27,193] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:27,228] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:27,245] {logging_mixin.py:104} INFO - [2021-06-28 16:55:27,245] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:55:27,252] {logging_mixin.py:104} INFO - [2021-06-28 16:55:27,252] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:55:27,271] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.079 seconds
+[2021-06-28 16:55:58,126] {scheduler_job.py:182} INFO - Started process (PID=64614) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:58,127] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:55:58,128] {logging_mixin.py:104} INFO - [2021-06-28 16:55:58,128] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:58,159] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:55:58,176] {logging_mixin.py:104} INFO - [2021-06-28 16:55:58,176] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:55:58,183] {logging_mixin.py:104} INFO - [2021-06-28 16:55:58,183] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:55:58,200] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:56:29,035] {scheduler_job.py:182} INFO - Started process (PID=64631) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:29,035] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:56:29,036] {logging_mixin.py:104} INFO - [2021-06-28 16:56:29,036] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:29,063] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:29,081] {logging_mixin.py:104} INFO - [2021-06-28 16:56:29,081] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:56:29,088] {logging_mixin.py:104} INFO - [2021-06-28 16:56:29,088] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:56:29,106] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.071 seconds
+[2021-06-28 16:56:59,761] {scheduler_job.py:182} INFO - Started process (PID=64640) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:59,763] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:56:59,763] {logging_mixin.py:104} INFO - [2021-06-28 16:56:59,763] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:59,793] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:56:59,810] {logging_mixin.py:104} INFO - [2021-06-28 16:56:59,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:56:59,817] {logging_mixin.py:104} INFO - [2021-06-28 16:56:59,817] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:56:59,835] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.074 seconds
+[2021-06-28 16:57:30,782] {scheduler_job.py:182} INFO - Started process (PID=64658) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:57:30,783] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:57:30,783] {logging_mixin.py:104} INFO - [2021-06-28 16:57:30,783] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:57:30,816] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:57:30,834] {logging_mixin.py:104} INFO - [2021-06-28 16:57:30,834] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:57:30,846] {logging_mixin.py:104} INFO - [2021-06-28 16:57:30,846] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:57:30,863] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.082 seconds
+[2021-06-28 16:58:01,674] {scheduler_job.py:182} INFO - Started process (PID=64668) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:01,674] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:58:01,674] {logging_mixin.py:104} INFO - [2021-06-28 16:58:01,674] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:01,697] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:01,717] {logging_mixin.py:104} INFO - [2021-06-28 16:58:01,717] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:58:01,725] {logging_mixin.py:104} INFO - [2021-06-28 16:58:01,725] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:58:01,747] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.073 seconds
+[2021-06-28 16:58:32,458] {scheduler_job.py:182} INFO - Started process (PID=64678) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:32,458] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:58:32,458] {logging_mixin.py:104} INFO - [2021-06-28 16:58:32,458] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:32,482] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:58:32,502] {logging_mixin.py:104} INFO - [2021-06-28 16:58:32,502] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:58:32,510] {logging_mixin.py:104} INFO - [2021-06-28 16:58:32,510] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:58:32,531] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.073 seconds
+[2021-06-28 16:59:03,308] {scheduler_job.py:182} INFO - Started process (PID=64688) to work on /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:59:03,308] {scheduler_job.py:633} INFO - Processing file /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py for tasks to queue
+[2021-06-28 16:59:03,308] {logging_mixin.py:104} INFO - [2021-06-28 16:59:03,308] {dagbag.py:487} INFO - Filling up the DagBag from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:59:03,331] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['calls_to_mongo']) retrieved from /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py
+[2021-06-28 16:59:03,350] {logging_mixin.py:104} INFO - [2021-06-28 16:59:03,350] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-06-28 16:59:03,358] {logging_mixin.py:104} INFO - [2021-06-28 16:59:03,358] {dag.py:2305} INFO - Setting next_dagrun for calls_to_mongo to 2021-06-28T10:00:00+00:00
+[2021-06-28 16:59:03,377] {scheduler_job.py:190} INFO - Processing /Users/saidamirmarufkhujaev/airflow/dags/calls_to_mongo.py took 0.069 seconds
